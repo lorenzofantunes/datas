@@ -1,0 +1,23 @@
+{
+    "products": [
+        {
+            "id": "1", "name": "Shampoo 123", "category": "Higiene",
+            "sales": [
+                {"date": "Jan", "amount": 123},
+                {"date": "Fev", "amount": 124},
+                {"date": "Mar", "amount": 125},
+                {"date": "Abr", "amount": 126},
+                {"date": "Mai", "amount": 127},
+                {"date": "Jun", "amount": 128},
+                {"date": "Jul", "amount": 129},
+                {"date": "Ago", "amount": 130},
+                {"date": "Set", "amount": 131},
+            ],
+            "future": [
+                {"date": "Out", "amount": 123},
+                {"date": "Nov", "amount": 124},
+                {"date": "Dez", "amount": 125},
+            ]
+        },
+    ]
+}
