@@ -11,12 +11,12 @@
                 {"date": "Jun", "amount": 128},
                 {"date": "Jul", "amount": 129},
                 {"date": "Ago", "amount": 130},
-                {"date": "Set", "amount": 131},
+                {"date": "Set", "amount": 131}
             ],
             "future": [
                 {"date": "Out", "amount": 123},
                 {"date": "Nov", "amount": 124},
-                {"date": "Dez", "amount": 125},
+                {"date": "Dez", "amount": 125}
             ]
         },
     ]
