@@ -1,9 +1,12 @@
 {
     "products": {
-            "1": {"name": "Shampoo 1", "category": "Shampoo"},
-            "2": {"name": "Shampoo 2", "category": "Shampoo"},
-            "3": {"name": "Shampoo 3", "category": "Shampoo"},
-            "4": {"name": "Sabonete Limpeza", "category": "Sabonete"}
+        "Shampoo": {
+            "1": {"name": "Shampoo 1"},
+            "2": {"name": "Shampoo 2"},
+            "3": {"name": "Shampoo 3"}      
+        },
+        "Sabonete"
+            "4": {"name": "Sabonete Limpeza"}
         },
     "history": {
         "1": {
