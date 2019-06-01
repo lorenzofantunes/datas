@@ -3,11 +3,12 @@
         "Shampoo": {
             "1": {"name": "Shampoo 1"},
             "2": {"name": "Shampoo 2"},
-            "3": {"name": "Shampoo 3"}      
+            "3": {"name": "Shampoo 3"}
         },
-        "Sabonete"
+        "Sabonete": {
             "4": {"name": "Sabonete Limpeza"}
         },
+    },
     "history": {
         "1": {
             "dates": ["Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez"],
