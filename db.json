@@ -1,12 +1,10 @@
 {
-    "products": [
-        {
+    "products": {
             "1": {"name": "Shampoo 1", "category": "Shampoo"},
             "2": {"name": "Shampoo 2", "category": "Shampoo"},
             "3": {"name": "Shampoo 3", "category": "Shampoo"},
             "4": {"name": "Sabonete Limpeza", "category": "Sabonete"}
-        }
-    ],
+        },
     "history": {
         "1": {
             "dates": ["Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez"],
