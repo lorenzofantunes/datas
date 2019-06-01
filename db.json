@@ -3,8 +3,8 @@
         {
             "id": "1", "name": "Shampoo 123", "category": "Higiene",
             "dates": ["Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez"],
-            "sales": [123, 124, 125, 126, 127, 128, 129, 130, null, null, null],
-            "future": [null, null, null, null, null, null, null, null, 123, 124, 125]
+            "sales": [123, 124, 125, 126, 127, 128, 129, 130, 131, null, null, null],
+            "future": [null, null, null, null, null, null, null, null, null, 123, 124, 125]
         }
     ]
 }
